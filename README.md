@@ -485,11 +485,11 @@
                     </div>
                     <div class="pie-legend-item">
                         <div class="pie-legend-color" style="background-color: #48bb78;"></div>
-                        <span>儲蓄成分 (25%)</span>
+                        <span>儲蓄成分 (39%)</span>
                     </div>
                     <div class="pie-legend-item">
                         <div class="pie-legend-color" style="background-color: #9ae6b4;"></div>
-                        <span>費用 (15%)</span>
+                        <span>費用 (1%)</span>
                     </div>
                 </div>
             </div>
