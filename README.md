@@ -521,28 +521,18 @@
             <div class="plan-card">
                 <h4 style="color: #2b6cb0; text-align: center;">基本方案</h4>
                 <ul style="list-style-type: none; padding-left: 0;">
-                    <li style="margin-bottom: 10px;">● 投入金額：25萬元</li>
-                    <li style="margin-bottom: 10px;">● 保障額度：150萬元</li>
-                    <li style="margin-bottom: 10px;">● 特定傷病保障：75萬元</li>
+                    <li style="margin-bottom: 10px;">● 投入金額：20萬元</li>
+                    <li style="margin-bottom: 10px;">● 保障額度：20萬元</li>
+                    <li style="margin-bottom: 10px;">● 特定傷病保障：30萬元</li>
                     <li>● 剩餘資金可靈活運用</li>
                 </ul>
-            </div>
-            <div class="plan-card plan-card-recommended">
-                <h4 style="color: #2c5282; text-align: center;">推薦方案</h4>
-                <div class="recommended-badge">推薦</div>
-                <ul style="list-style-type: none; padding-left: 0;">
-                    <li style="margin-bottom: 10px;">● 投入金額：35萬元</li>
-                    <li style="margin-bottom: 10px;">● 保障額度：250萬元</li>
-                    <li style="margin-bottom: 10px;">● 特定傷病保障：125萬元</li>
-                    <li>● 健康促進折減最高可達20%</li>
-                </ul>
-            </div>
+           
             <div class="plan-card">
                 <h4 style="color: #2b6cb0; text-align: center;">全額轉換方案</h4>
                 <ul style="list-style-type: none; padding-left: 0;">
-                    <li style="margin-bottom: 10px;">● 投入金額：40萬元</li>
-                    <li style="margin-bottom: 10px;">● 保障額度：300萬元</li>
-                    <li style="margin-bottom: 10px;">● 特定傷病保障：150萬元</li>
+                    <li style="margin-bottom: 10px;">● 投入金額：36萬元</li>
+                    <li style="margin-bottom: 10px;">● 保障額度：50萬元</li>
+                    <li style="margin-bottom: 10px;">● 特定傷病保障：50萬元</li>
                     <li>● 最大化保障與利益</li>
                 </ul>
             </div>
@@ -576,18 +566,7 @@
         </div>
     </div>
 
-    <h2>行動方案</h2>
-    <div class="cta-box">
-        <h3>限時優惠</h3>
-        <p style="font-weight: bold;">即日起至2025年6月30日，轉換滿福寶享有以下專屬優惠：</p>
-        <ul>
-            <li>● 首年保費折減5%</li>
-            <li>● 免費健康檢查一次</li>
-            <li>● FitBack健康吧會員升級</li>
-            <li>● 提供個人化財務規劃諮詢服務</li>
-        </ul>
-        <button class="cta-button">立即預約轉換諮詢</button>
-    </div>
+    
 
     <div class="disclaimer">
         <p><strong>免責聲明：</strong>本文件僅供參考，不構成任何投資或保險建議。實際保險內容及權益以保險契約條款為準。在做出任何保險決策前，請務必詳閱保險商品說明書及保單條款，並諮詢專業保險顧問。</p>
